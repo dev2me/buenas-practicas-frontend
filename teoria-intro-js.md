@@ -15,6 +15,8 @@
 1. [Buenas Prácticas](#buenas-prácticas)
 1. [Libros](#libros)
 
+**[⬆ regresar al inicio](./readme.md)**
+
 ### JavaScript: BEGINS (1995)
 
 > JavaScript, conocido como LiveScript, JScript, ECMAScript, es uno de los lenguajes de programación más populares del mundo. Virtualmente cada computadora en el mundo tiene al menos un intérprete Javascript instalado y sin duda es usado frecuentemente (navegador web). La popularidad que tiene Javascript se debe enteramente a su rol como lenguaje de script en la Web.

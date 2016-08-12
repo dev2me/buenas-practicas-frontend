@@ -21,6 +21,8 @@
 1. [API's](#apis)
 1. [JavaScript Diferido y Asíncrono](#javascript-diferido-y-asíncrono)
 
+**[⬆ regresar al inicio](./readme.md)**
+
 ## PROGRAMACIÓN
 La gente cree que programar es dificil, algunas razones:
 
