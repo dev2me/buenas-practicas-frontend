@@ -70,7 +70,7 @@ Este repositorio proporciona una serie de recomendaciones, buenas prácticas, en
 	1. Buenas Prácticas
 	1. Libros
 
-1. [Buenas Prácticas y Fundamentos de Progranmmación en JavaScript](./teoria-poo-js.md)
+1. [Buenas Prácticas y Fundamentos de Programación en JavaScript](./teoria-poo-js.md)
 	1. Programación
 	1. Programación Orientada a Objetos
 	1. Gramática JS
